@@ -3,6 +3,7 @@
 ## Overview
 Rent'y is a mobile and web application designed to connect musical instrument enthusiasts, enabling users to rent, buy, or sell musical instruments seamlessly. This project is **not yet deployed** and must be run locally for testing and development purposes.
 
+- Blog article link : https://github.com/ghofranaaa/renty_application/tree/main/renty
 ---
 
 ## Features
@@ -69,7 +70,6 @@ Since the app is not deployed, you need to run it locally. Follow the steps belo
    flask run
 
 - The server will be accessible at http://127.0.0.1:5000/.
-
 
 
 ### Frontend (Flutter)
