@@ -56,7 +56,7 @@ Since the app is not deployed, you need to run it locally. Follow the steps belo
 
 1. Clone the repository:
    ```bash
-   git clone <repository-link>
+   git clone <https://github.com/ghofranaaa/renty_application.git>
    cd backend
 
 2. Create a .env file with the following:
