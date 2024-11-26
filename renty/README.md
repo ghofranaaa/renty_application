@@ -18,7 +18,7 @@ Rent'y is a mobile and web application designed to connect musical instrument en
 - **Post Creation**:
   - User can post music intruments.
 
-- **Admin Screen**:
+- **Profile Screen**:
   - User can track his posts, updates his informations, or logs out.
 
 - **Validation**:
@@ -60,10 +60,12 @@ Since the app is not deployed, you need to run it locally. Follow the steps belo
    cd backend
 
 2. Create a .env file with the following:
+   ```bash
    JWT_SECRET_KEY=your_secret_key
    DATABASE_URL=mysql+pymysql://username:password@localhost/database_name
 
 3. Run the Flask server:
+   ```bash
    flask run
 
 
