@@ -1,0 +1,62 @@
+name: renty
+description: "A new Flutter project."
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  http:
+  image_picker:
+  carousel_slider: ^5.0.0
+  shared_preferences: ^2.1.1
+  flutter_secure_storage: ^9.0.0
+  flutter_easyloading:
+  flutter_svg: ^2.0.5
+  http_parser:
+  flutter:
+    sdk: flutter
+  salomon_bottom_bar:
+
+  # Updated Cupertino Icons version
+  cupertino_icons: ^1.0.8  # Updated to the latest version
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+  # Updated flutter_lints version
+  flutter_lints: ^5.0.0  # Updated to the latest version
+
+# For information on the generic Dart part of this file, see the
+# following page: https://dart.dev/tools/pub/pubspec
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/logo.png
+    - assets/welcome_bg.png
+    - assets/rent.png
+    - assets/home.png
+    - assets/key.jpg
+    - assets/category_1.png
+    - assets/category_2.png
+    - assets/category_3.png
+    - assets/category_4.png
+
+  fonts:
+    - family: Product Sans
+      fonts:
+        - asset: assets/fonts/ProductSans-Black.ttf
+        - asset: assets/fonts/ProductSans-Light.ttf
+        - asset: assets/fonts/ProductSans-Medium.ttf
+        - asset: assets/fonts/ProductSans-MediumItalic.ttf
+        - asset: assets/fonts/ProductSans-Regular.ttf
+        - asset: assets/fonts/ProductSans-Thin.ttf
+        - asset: assets/fonts/ProductSans-ThinItalic.ttf
+
+
+

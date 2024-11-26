@@ -1,0 +1,39 @@
+Ghof_rane.04
+
+login: {
+	"email": "ghofrane@gmail.com",
+	"password": "12345"
+}
+
+post id: 623ff932-d9df-467a-b550-b4231b9914ea
+f7c40bc9-4cce-450a-a7b3-c8e15339e6c9
+3dcee367-60d1-481b-af14-558c7153c6db
+863fd719-a50b-4eee-8b52-b004a24b9aad
+creating post: {
+        "instrument_type": "Guitar",
+        "title": "beautiful guitar",
+        "brand": "yamaha",
+        "price": "123",
+        "description": "jbksabdkabd",
+        "phone_number": "92751255",
+        "image": "key.jpg",
+        "status": "for rental"
+}
+
+{
+        "image": "key.jpg",
+        "name": "hadir",
+        "email": "hadir@gmail.com",
+        "password": "123456"
+      }
+      {
+        "name": "marwen",
+        "email": "marwen@gmail.com",
+        "password": "0000"
+      }
+
+
+      updated
+
+      hadirjenni@gmail.com
+      1234567
