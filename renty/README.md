@@ -68,7 +68,6 @@ Since the app is not deployed, you need to run it locally. Follow the steps belo
    ```bash
    flask run
 
-
 - The server will be accessible at http://127.0.0.1:5000/.
 
 
