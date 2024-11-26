@@ -98,7 +98,7 @@ Since the app is not deployed, you need to run it locally. Follow the steps belo
 **Frontend**
 
 - Framework: Flutter (Dart)
-- State Management: Flutter’s setStatearchitecture
+- State Management: Flutter’s setState method
 - HTTP Requests: http package to interact with the backend API
 
 
@@ -126,7 +126,7 @@ Since the app is not deployed, you need to run it locally. Follow the steps belo
 
 ### Contributing
 
-* I welcome contributions to make this app better! If you'd like to contribute:
+**I welcome contributions to make this app better! If you'd like to contribute:**
 
 1. Fork the repository.
 
