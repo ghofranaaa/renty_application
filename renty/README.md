@@ -7,6 +7,7 @@ Rent'y is a mobile and web application designed to connect musical instrument en
 ---
 ## Author
 - Ghofrane Amemi
+
 **Linkedin**: https://www.linkedin.com/in/ghofrane-amemi-6200a3338/
 
 ---
